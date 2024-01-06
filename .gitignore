@@ -1,2 +1,12 @@
 .DS_Store
 tylermneher.life-ssl-bundle/
+tylermneher-card-adbcb9c2ced2.json
+google/tylermneher-card-adbcb9c2ced2.json
+google/.venv/
+google/.env/
+google/.env
+
+*.pem
+*.p12
+*.key
+*.cer

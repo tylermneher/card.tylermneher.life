@@ -1,0 +1,226 @@
+{
+  "genericClasses": [
+    {
+      "id": "undefined.pass.com.tylermneher.contact-card-2",
+      "classTemplateInfo": {
+        "cardTemplateOverride": {
+          "cardRowTemplateInfos": [
+            {
+              "oneItem": {
+                "item": {
+                  "firstValue": {
+                    "fields": [
+                      {
+                        "fieldPath": "object.textModulesData['whoami']"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "oneItem": {
+                "item": {
+                  "firstValue": {
+                    "fields": [
+                      {
+                        "fieldPath": "object.textModulesData['job']"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "twoItems": {
+                "startItem": {
+                  "firstValue": {
+                    "fields": [
+                      {
+                        "fieldPath": "object.textModulesData['workcellfront']"
+                      }
+                    ]
+                  }
+                },
+                "endItem": {
+                  "firstValue": {
+                    "fields": [
+                      {
+                        "fieldPath": "object.textModulesData['workmailfront']"
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "genericObjects": [
+    {
+      "id": "undefined.6969669",
+      "classId": "undefined.pass.com.tylermneher.contact-card-2",
+      "barcode": {
+        "type": "QR_CODE",
+        "value": "https://resume.tylermneher.me"
+      },
+      "hexBackgroundColor": "#327da8",
+      "textModulesData": [
+        {
+          "id": "whoami",
+          "localizedHeader": {
+            "defaultValue": {
+              "language": "en",
+              "value": "whoami"
+            }
+          },
+          "localizedBody": {
+            "defaultValue": {
+              "language": "en",
+              "value": "Tyler M. Neher"
+            }
+          }
+        },
+        {
+          "id": "job",
+          "localizedHeader": {
+            "defaultValue": {
+              "language": "en",
+              "value": "Owner"
+            }
+          },
+          "localizedBody": {
+            "defaultValue": {
+              "language": "en",
+              "value": "Neher Data Systems"
+            }
+          }
+        },
+        {
+          "id": "workcellfront",
+          "localizedHeader": {
+            "defaultValue": {
+              "language": "en",
+              "value": "Work Cell"
+            }
+          },
+          "localizedBody": {
+            "defaultValue": {
+              "language": "en",
+              "value": "+17326143717"
+            }
+          }
+        },
+        {
+          "id": "workmailfront",
+          "localizedHeader": {
+            "defaultValue": {
+              "language": "en",
+              "value": "EMAIL"
+            }
+          },
+          "localizedBody": {
+            "defaultValue": {
+              "language": "en",
+              "value": "tyler@neherdata.com"
+            }
+          }
+        },
+        {
+          "id": "personalcellback",
+          "localizedHeader": {
+            "defaultValue": {
+              "language": "en",
+              "value": "Personal Cell"
+            }
+          },
+          "localizedBody": {
+            "defaultValue": {
+              "language": "en",
+              "value": "+17322755997"
+            }
+          }
+        },
+        {
+          "id": "workcellback",
+          "localizedHeader": {
+            "defaultValue": {
+              "language": "en",
+              "value": "Work Cell"
+            }
+          },
+          "localizedBody": {
+            "defaultValue": {
+              "language": "en",
+              "value": "+17326143717"
+            }
+          }
+        },
+        {
+          "id": "workmailback",
+          "localizedHeader": {
+            "defaultValue": {
+              "language": "en",
+              "value": "Workmail"
+            }
+          },
+          "localizedBody": {
+            "defaultValue": {
+              "language": "en",
+              "value": "N/A"
+            }
+          }
+        },
+        {
+          "id": "ndsgithub",
+          "localizedHeader": {
+            "defaultValue": {
+              "language": "en",
+              "value": "Neher Data Systems GitHub"
+            }
+          },
+          "localizedBody": {
+            "defaultValue": {
+              "language": "en",
+              "value": "N/A"
+            }
+          }
+        },
+        {
+          "id": "tylergithub",
+          "localizedHeader": {
+            "defaultValue": {
+              "language": "en",
+              "value": "Tyler's GitHub"
+            }
+          },
+          "localizedBody": {
+            "defaultValue": {
+              "language": "en",
+              "value": "N/A"
+            }
+          }
+        }
+      ],
+      "cardTitle": {
+        "defaultValue": {
+          "language": "en",
+          "value": "Contact Card"
+        }
+      },
+      "header": {
+        "defaultValue": {
+          "language": "en",
+          "value": "Contact Card for Tyler M. Neher"
+        }
+      },
+      "logo": {
+        "sourceUri": {
+          "uri": "image-TttLW-fiTBu2vHBsMx5m-.png"
+        }
+      }
+    }
+  ]
+}

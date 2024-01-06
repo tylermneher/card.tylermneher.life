@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:MyLibrary">
+   </FileRef>
+   <FileRef
+      location = "group:signpass">
+   </FileRef>
+   <FileRef
+      location = "group:tylermneher.pass">
+   </FileRef>
+   <FileRef
+      location = "group:tylermneher.pkpass">
+   </FileRef>
+</Workspace>
